@@ -1,4 +1,4 @@
-#Customer Churn
+#Customer_Churn
 
 In general churn is expressed as a degree of customer in-activity or disengagement observed over a given time this manifest within the data in various forms.
 
